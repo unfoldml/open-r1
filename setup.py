@@ -60,6 +60,7 @@ _deps = [
     "parameterized>=0.9.0",
     "peft>=0.14.0",
     "pytest",
+    "requests",
     "ruff>=0.9.0",
     "safetensors>=0.3.3",
     "sentencepiece>=0.1.99",
